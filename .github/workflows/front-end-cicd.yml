@@ -1,7 +1,8 @@
 name: Upload website to S3
 on:
   push:
-    - main
+    branches:
+      - main
 
 jobs:
   deploy:
