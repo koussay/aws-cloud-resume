@@ -1,6 +1,6 @@
 # AWS Cloud Resume Challenge
 
-![AWS Cloud Resume Challenge]([cloud_challenge.png](https://github.com/koussay/aws-cloud-resume/blob/main/koussay-portfolio/images/cloud_challenge.png))
+![AWS Cloud Resume Challenge](https://ibb.co/SJwHQmK)
 
 Welcome to my AWS Cloud Resume Challenge project repository! This project serves as a demonstration of my AWS skills and showcases my ability to create a serverless web application hosted on AWS. Below, you'll find an overview of the project and its architecture, as well as details on how to access the deployed website.
 
