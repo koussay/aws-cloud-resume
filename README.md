@@ -1,6 +1,5 @@
 # AWS Cloud Resume Challenge
 
-![AWS Cloud Resume Challenge](https://github.com/koussay/aws-cloud-resume/blob/main/koussay-portfolio/images/cloud_challenge.png?raw=true)
 
 Welcome to my AWS Cloud Resume Challenge project repository! This project serves as a demonstration of my AWS skills and showcases my ability to create a serverless web application hosted on AWS. Below, you'll find an overview of the project and its architecture, as well as details on how to access the deployed website.
 
@@ -27,6 +26,8 @@ The architecture of my AWS Cloud Resume Challenge project follows serverless bes
 - **AWS CloudFront**: CloudFront is employed as a Content Delivery Network (CDN) to optimize website delivery.
 
 - **DynamoDB**: I've included an optional DynamoDB table to store and retrieve data, such as visitor count.
+
+![AWS Cloud Resume Challenge](https://github.com/koussay/aws-cloud-resume/blob/main/koussay-portfolio/images/cloud_challenge.png?raw=true)
 
 ## Getting Started
 
